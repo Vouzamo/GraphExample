@@ -1,0 +1,12 @@
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\Data.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\Data.pdb
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\obj\Debug\Data.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\obj\Debug\Data.pdb
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\Data.dll.config
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\EntityFramework.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\Models.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\Models.pdb
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\EntityFramework.xml
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\GraphExample\Data\bin\Debug\EntityFramework.SqlServer.xml

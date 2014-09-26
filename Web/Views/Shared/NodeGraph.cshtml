@@ -1,0 +1,33 @@
+﻿@using System.Activities.Statements
+@using Data.Context
+@model GraphModel
+
+@{
+    Layout = null;
+}
+
+{
+	"nodes":[
+        @foreach (var node in Model.Nodes)
+        {
+            <text>
+            {
+                "name":"@node.Name",
+                "group":"@node.Type"
+            }@(node != Model.Nodes.Last() ? "," : string.Empty)
+            </text>
+        }
+    ],
+	"edges":[
+        @foreach (var edge in Model.Edges)
+        {
+            <text>
+            {
+                "source":"@edge.FromNode.Name",
+                "target":"@edge.ToNode.Name",
+                "value":1
+            }@(edge != Model.Edges.Last() ? "," : string.Empty)
+            </text>
+        }
+	]
+}
